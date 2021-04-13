@@ -1,7 +1,4 @@
-# USAGE
-# python detect_mask_video.py
-#Created by S. Jahnavi Prasad
-#(https://github.com/jahnavi-prasad)
+
 # import the necessary packages
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
